@@ -6,7 +6,7 @@
 
 </p>
 
-<p>"Every great engineer began with a single question: what happens if I break this?"</p>
+<p align="center">"Every great engineer began with a single question: what happens if I break this?"</p>
 <br>
 
 <h1 align="center">
