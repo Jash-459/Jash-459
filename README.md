@@ -71,9 +71,6 @@
 <a href="https://www.linkedin.com/in/Jash-459/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.naukri.com/code360/profile/65b91ec9-dbc8-4967-ad52-ae721e6ea509" target="_blank">
-  <img src="https://img.shields.io/badge/coding%20ninjas-brown.svg?&style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas" style="margin-bottom: 5px;" />
-</a>
   
 </div>   
 
